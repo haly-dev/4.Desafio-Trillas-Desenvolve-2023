@@ -166,3 +166,51 @@ footer{
 .lista__logos_items{
     margin-right: 2rem;
 }
+
+@media screen and (max-width: 750px){
+    footer{
+        height: auto;
+    }
+
+    .lista__rodape{
+        flex-direction: column;
+        gap: 3rem;
+        justify-content: space-around;
+ 
+    }
+
+    .lista3__textos{
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 600px){
+
+    main{
+        padding-left: 0;
+        padding-right: 0;
+        margin: 0;
+    }
+
+    .listas__cursos{
+        padding: 5px;
+        width: 100%;
+    }
+
+    
+    .cards{
+        width: 500px;
+        height: 700px;
+    }
+
+    header{
+        height: 200px;
+
+    }
+    .container-elementos-header{
+        flex-direction: column;
+        height: 200px;
+        justify-content: space-around;
+    }
+}

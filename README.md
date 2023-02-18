@@ -13,11 +13,11 @@ Programa gratuito de formação e inclusão de talentos em tecnologia do Grupo B
 ## Meu Processo
 
 - Consegui criar com nenhuma dificuldade, aprendi mais coisas sobre flexbox e centralização de footer e header com o margin 0 auto e definindo um width, <br>
-e foi um aprendizado bastante atual sobre centralizações e estilizações, eu adorei esse desafio.
+e foi um aprendizado bastante atual sobre centralizações e estilizações, eu adorei esse desafio e adaptei para a pagina ser responsiva mesmo não pedindo no desafio.
 
-- Link github Pages: 
+- Link github Pages: https://haly-dev.github.io/4.Desafio-Trillas-Desenvolve-2023/
 
-- Video da pagina:
+- Video da pagina: 
 
 - 
 
