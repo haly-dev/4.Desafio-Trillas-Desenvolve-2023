@@ -1,0 +1,111 @@
+/* Importação de fonte via Google Fonts --------- */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+
+/* Reset básico --------- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+
+    
+}
+
+/* Body --------- */
+body {
+    background-color: #33475B;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+/* Header --------- */
+header {
+    height: 80px;
+    background-color: #FFFFFF;
+    display: flex;
+}
+
+.container-elementos-header {
+    width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.titulo-principal {
+    font-size: 24px;
+    color: #0000EE;
+    font-weight: 400;
+}
+
+.label-pesquisa {
+    background-color: #DB1E8C;
+    height: 40px;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    border-radius: 4px;
+}
+
+.input-pesquisa {
+    background-color: transparent;
+    padding: 4px;
+    border: none;
+}
+
+::placeholder {
+    color: #FF97D3;
+}
+
+.container{
+    padding: 32px;
+}
+
+.lista__cursos{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 40px;
+    gap: 40px;
+    
+
+}
+
+.cards{
+    width: 400px;
+    height: 444.74px;
+    background-color: #F5F5F5;
+    border: 1px solid #264FEC;
+    border-radius: 4px;
+
+}
+
+.cards h2{
+
+font-size: 24px;
+font-weight: 600;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.cards p{
+    padding-top: 24px;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+.cards a{
+
+    font-weight: 400;
+    font-size: 14px;
+    border: 1px solid #264FEC;
+    color: #264FEC;
+    
+
+}
