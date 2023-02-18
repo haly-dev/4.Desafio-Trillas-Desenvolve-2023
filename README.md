@@ -19,7 +19,7 @@ e foi um aprendizado bastante atual sobre centralizações e estilizações, eu 
 
 - Video da pagina: 
 
-- 
+- https://user-images.githubusercontent.com/107888695/219874156-c73b07d9-c86f-4666-8b71-5ff410aa4ea5.mp4
 
 ### Construído com
 
