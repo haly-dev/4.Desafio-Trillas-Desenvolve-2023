@@ -63,6 +63,11 @@ header {
     padding: 32px;
 }
 
+main{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
 .lista__cursos{
     width: 100%;
     display: flex;
@@ -82,6 +87,7 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+
 
 }
 
@@ -112,4 +118,44 @@ text-align: left;
     align-self: start;
     padding: 14px 18px;
 
+}
+
+
+footer{
+    margin-top: 6.25rem;
+    height: 110px;
+    background-color: white;
+    display: flex;
+}
+
+.lista__rodape{
+    width: 1280px;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+
+.lista3{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+.lista3__textos{
+    display: inline-block;
+    text-align: left;
+}
+.lista__texto{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18.2px;
+    
+}
+
+.logo_desenvolve{
+    
 }
