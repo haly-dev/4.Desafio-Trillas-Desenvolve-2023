@@ -70,7 +70,6 @@ header {
     flex-wrap: wrap;
     padding: 40px;
     gap: 40px;
-    
 
 }
 
@@ -80,6 +79,9 @@ header {
     background-color: #F5F5F5;
     border: 1px solid #264FEC;
     border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 
 }
 
@@ -97,15 +99,17 @@ text-align: left;
     padding-top: 24px;
     font-weight: 400;
     font-size: 16px;
+    flex:2;
 
 }
 
 .cards a{
-
     font-weight: 400;
     font-size: 14px;
     border: 1px solid #264FEC;
     color: #264FEC;
-    
+    box-sizing: border-box;
+    align-self: start;
+    padding: 14px 18px;
 
 }

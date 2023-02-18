@@ -1,6 +1,6 @@
 
 
-### Desafio: Criando o footer da página
+### Desafio: Criando o main e footer da página
 <hr>
 
 
